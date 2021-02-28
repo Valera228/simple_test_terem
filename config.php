@@ -7,5 +7,5 @@ return [
         "pass" => "root"
     ],
     "csv_file" => "/test.csv",
-    "elem_on_page" => 2
+    "elem_on_page" => 20
 ];
