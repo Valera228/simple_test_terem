@@ -1,0 +1,27 @@
+.height-200 {
+    height: 200px;
+}
+.block-pink {
+    background-color: #fa90ff;
+}
+.block-coral {
+    background-color: coral;
+}
+.block-blue {
+    background-color: #78c9ff;
+}
+.block-green {
+    background-color: #9cff8c;
+}
+.block-yellow {
+    background-color: #fff7ab;
+}
+.block-orange {
+    background-color: #ffc580;
+}
+.border-blocks .col {
+    border: 1px solid #000000;
+}
+.border-blocks .col.dashed-border {
+    border: 1px dashed #000000;
+}
